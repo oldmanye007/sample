@@ -1,2 +1,11 @@
 print,"hello world!";
-new line
+
+
+
+git clone linkoldmanye007/sample
+
+git status
+
+git add "new name"
+
+git commit -m "message"
